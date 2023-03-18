@@ -48,8 +48,8 @@
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragmentContainerView2"
         android:name="com.example.lab05.HomeFragment"
-        android:layout_width="374dp"
-        android:layout_height="537dp"
+        android:layout_width="398dp"
+        android:layout_height="501dp"
         app:layout_constraintBottom_toTopOf="@+id/divider"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.432"
